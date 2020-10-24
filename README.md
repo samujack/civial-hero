@@ -1,12 +1,14 @@
-# Hugo Hero Theme
+# Test de sitio Civial SA
+
+Based on Hugo Hero Theme by Robert Austin - rob@zerostatic.io - github.com/zerostaticthemes
 
 Hero is a multi-page business theme with fullscreen hero images and fullwidth sections.
 
-[Live Demo](https://hugo-hero.netlify.com/) |
+[Live Demo](https://samujack.github.io/civial-hero) |
 [Installation](#installation) | 
-[Zerostatic Themes](https://www.zerostatic.io/theme/hugo-hero/)
 
-![Hugo Hero Theme screenshot](https://github.com/JugglerX/hugo-hero-theme/blob/master/images/screenshot-full.jpg)
+
+
 
 # Features
 
@@ -190,6 +192,3 @@ This theme includes a `netlify.toml` which is configured to deploy to Netlify fr
 
 Most likely if you are deploying to Netlify and created a new Hugo site or added this theme to an existing Hugo site then you are not deploying from the `exampleSite` directory and you can delete the `netlify.toml` file.
 
-## License
-
-If you fork or copy this theme the LICENSE file and the copyright notice on line 3 (where I am listed as the author) must not be changed. You cannot just replace the copyright line with your own name. Attribution in your README.md or on your site is also welcome but not required.
